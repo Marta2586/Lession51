@@ -35,6 +35,7 @@ namespace Lession51
                 nums[2] = largest;
 
                 return nums;
+
             }
         }
     }
